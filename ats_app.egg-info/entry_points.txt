@@ -1,0 +1,2 @@
+[console_scripts]
+ats-app = ats.app:main
